@@ -1,0 +1,15 @@
+
+table {
+    width: 29%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    padding: 10px;
+}
+
+body {
+    text-align: center;
+    justify-content: center;
+}
